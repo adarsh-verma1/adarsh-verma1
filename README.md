@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adarsh Verma</h1>
 <h3 align="center">A passionate Web Application Developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-verma1&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-verma1" /> </p>
+
 - Co-Founder of THE UNFOLDER- [https://theunfolder.com](https://theunfolder.com)
 
 - All of my projects are available at **https://github.com/adarsh-verma1**
